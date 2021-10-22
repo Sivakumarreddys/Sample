@@ -1,0 +1,14 @@
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: illegal expression
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: illegal expression
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: syntax error; found "{pInputData} ... expecting `)'
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: syntax error; found "{pInputData} ... expecting `)'
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: syntax error; found "{pInputData} ... expecting `;'
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: warning: expression with no effect elided
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: syntax error; found `)' expecting `;'
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: illegal statement termination
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: skipping `)' `,'
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: warning: expression with no effect elided
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: syntax error; found `)' expecting `;'
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: illegal statement termination
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: Action.c:6: error: skipping `)'
+c:\users\sivak.sirasanambati\onedrive - travelport\desktop\glmrewrite\\pre_cci.c: c:\\users\\sivak.sirasanambati\\onedrive - travelport\\desktop\\glmrewrite\\\\combined_GLMRewrite.c:6: error: 11 errors, not writing pre_cci.ci
